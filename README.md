@@ -137,10 +137,13 @@ Faculty of Mechanical, Industrial and Transport Engineering
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=FontRares&show_icons=true&hide_border=true&theme=transparent" />
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FontRares&hide_border=true&theme=github-compact" />
 
 </div>
-
 **Smart Buildings · Building Automation · System Integration · Engineering**
 
 Cluj-Napoca, Romania
