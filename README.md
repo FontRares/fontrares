@@ -96,8 +96,7 @@ The project focused on the design and implementation of an integrated building a
 
 ## Engineering Tools
 
-`ETS` · `AutoCAD` · `MATLAB` · `Git`
-
+`ETS` · `AutoCAD` · `MATLAB` · `Git` · `HVAC Controls` 
 Programming background:
 
 `C` · `C++` · `C#` · `Java` · `SQL`
