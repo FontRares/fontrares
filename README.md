@@ -137,13 +137,9 @@ Faculty of Mechanical, Industrial and Transport Engineering
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FontRares&hide_border=true&theme=transparent" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FontRares&hide_border=true&theme=github-compact" />
 
 </div>
-
----
-
-<div align="center">
 
 **Smart Buildings · Building Automation · System Integration · Engineering**
 
