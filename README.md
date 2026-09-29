@@ -137,11 +137,7 @@ Faculty of Mechanical, Industrial and Transport Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FontRares&show_icons=true&hide_border=true&theme=transparent" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontRares&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FontRares&hide_border=true&theme=transparent" />
 
 </div>
 
