@@ -1,74 +1,198 @@
-# Hi, I'm Rareș 👋
+<div align="center">
 
-### Automation Engineer | BMS & Building Automation
+# Rareș-Alexandru Font
 
-I am an Automation Engineer focused on Building Management Systems (BMS), building automation, system integration, commissioning and troubleshooting.
+### Automation Engineer · BMS & Building Automation
 
-My experience includes working with building automation and control systems such as KNX, PLCs, Modbus, HVAC control, DALI lighting, Ethernet-based communication and electrical systems.
+Building smarter, connected and energy-efficient environments through automation.
 
-I hold a degree in Automation and Applied Informatics, with a Bachelor's thesis focused on the design and implementation of a KNX-based BMS for a preschool educational facility. I am currently continuing my studies in Building Services Engineering and Automotive Engineering.
+<br>
 
----
+<a href="https://www.linkedin.com/in/font-rares-alexandru-b3a377301">
+  <img src="https://img.shields.io/badge/LinkedIn-Rareș%20Font-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fontrares44@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-## 🔧 Areas of Expertise
-
-- Building Management Systems (BMS)
-- Building & Industrial Automation
-- PLC & Control Systems
-- HVAC & Electrical Systems
-- Communication Protocols & Networks
-- Commissioning, Maintenance & Troubleshooting
+</div>
 
 ---
 
-## 🏢 Building Automation Technologies
+## 👨‍💻 About Me
 
-`KNX` `ETS` `Modbus RTU/TCP` `PLC` `DALI` `HVAC` `Ethernet` `CCTV`
+I'm an **Automation Engineer specialized in BMS and Building Automation**, with hands-on experience in system integration, commissioning, maintenance and troubleshooting.
+
+My work focuses on integrating and controlling building systems using technologies such as **KNX, PLC, Modbus, DALI and Ethernet**, with applications in HVAC, lighting, electrical systems and security infrastructure.
+
+My academic background combines **Automation & Computer Science** with ongoing studies in **Building Services Engineering**, allowing me to approach building automation from both the control and installation engineering perspectives.
 
 ---
 
-## 💻 Programming & Engineering Tools
+## ⚙️ Engineering Focus
 
-`C` `C++` `C#` `Java` `SQL` `MATLAB` `AutoCAD` `Git`
+<p align="center">
+
+<img src="https://img.shields.io/badge/BMS-Building%20Management%20Systems-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KNX-Building%20Automation-333333?style=for-the-badge&logo=knx" />
+<img src="https://img.shields.io/badge/PLC-Control%20Systems-333333?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HVAC-Automation-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DALI-Lighting%20Control-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modbus-System%20Integration-555555?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🏢 Building Automation
+
+| Area | Experience |
+|---|---|
+| 🏢 **BMS** | Configuration, integration, maintenance & commissioning |
+| 🔌 **KNX** | KNX automation systems & ETS |
+| ⚙️ **PLC** | Control logic & automation |
+| 🔄 **Modbus** | Modbus RTU / TCP integration |
+| 🌐 **Networks** | Ethernet & device communication |
+| 🌡️ **HVAC** | HVAC monitoring & control |
+| 💡 **Lighting** | DALI lighting control |
+| 📹 **Security** | CCTV system integration |
+| ⚡ **Electrical** | Electrical installations & troubleshooting |
+
+---
+
+## 🛠️ Technical Stack
+
+### Automation & Building Systems
+
+<p>
+<img src="https://img.shields.io/badge/KNX-009FE3?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ETS-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/PLC-444444?style=flat-square" />
+<img src="https://img.shields.io/badge/Modbus-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/DALI-666666?style=flat-square" />
+<img src="https://img.shields.io/badge/HVAC-777777?style=flat-square" />
+<img src="https://img.shields.io/badge/Ethernet-888888?style=flat-square" />
+</p>
+
+### Engineering & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,git,github" />
+</p>
+
+`AutoCAD` · `MATLAB` · `Electrical Schematics` · `System Commissioning`
 
 ---
 
 ## 🎓 Education
 
-**Technical University of Cluj-Napoca**  
-Automation and Applied Informatics
+### 🏫 Technical University of Cluj-Napoca
 
-**Bachelor's Thesis:**  
-*Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility*
+**Faculty of Automation and Computer Science**
 
-**Master's Degree – Building Services Engineering**  
-Currently pursuing
+Bachelor's Degree in **Automation and Applied Informatics**
 
-**Technical University of Moldova**  
-Automotive Engineering – Currently pursuing
+🎓 **Bachelor's Thesis**
+
+> **Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility**
+
+---
+
+### 🏗️ Building Services Engineering
+
+**Master's Degree — Ongoing**
+
+Focused on building installations, HVAC, electrical systems and intelligent building technologies.
+
+---
+
+### 🚗 Technical University of Moldova
+
+**Faculty of Mechanical, Industrial and Transport Engineering**
+
+Bachelor's Degree in **Automotive Engineering — Ongoing**
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Academy – SQL
-- ANRE 2A / 2B – Currently preparing
+<table>
+<tr>
+<td>📊</td>
+<td><b>Oracle Academy</b></td>
+<td>SQL Certification</td>
+</tr>
+
+<tr>
+<td>⚡</td>
+<td><b>ANRE 2A / 2B</b></td>
+<td>Currently preparing</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Languages
+<details>
+<summary><b>💻 Programming Background</b></summary>
 
-- Romanian — Native
-- English — Fluent
-- French — Basic
+<br>
+
+My background in Automation and Computer Science also includes experience with:
+
+- C / C++
+- C#
+- Java
+- SQL
+- MATLAB
+- Object-Oriented Programming
+- Algorithms
+- Git
+- Database Management
+
+This programming background supports my work with automation systems, integration and control logic.
+
+</details>
 
 ---
 
-## 📫 Contact
+<details>
+<summary><b>🌍 Languages</b></summary>
 
-- LinkedIn: [Rareș-Alexandru Font](https://linkedin.com/in/font-rares-alexandru-b3a377301)
-- GitHub: [@FontRares](https://github.com/FontRares)
+<br>
+
+🇷🇴 **Romanian** — Native  
+🇬🇧 **English** — Fluent  
+🇫🇷 **French** — Basic
+
+</details>
 
 ---
 
-> Interested in Building Automation, Smart Buildings, BMS integration and intelligent control systems.
+## 📊 GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=FontRares&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontRares&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+```text
+Building Automation
+│
+├── 🏢 BMS
+├── ⚡ KNX
+├── ⚙️ PLC
+├── 🌡️ HVAC
+├── 💡 DALI
+├── 🔄 Modbus
+├── 🌐 Ethernet
+└── 🔌 Electrical Systems
