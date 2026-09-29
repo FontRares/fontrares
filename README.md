@@ -22,9 +22,9 @@
 
 ## Engineering Profile
 
-Automation Engineer focused on **Building Management Systems, Building Automation and System Integration**.
+Automation Engineer focused on **Building Management Systems, Building Automation and System Integration**, with a strong interest in **IoT-enabled infrastructure and Smart City technologies**.
 
-My technical work covers **KNX, PLC-based control, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems**, with a strong focus on commissioning, troubleshooting and integrated building control.
+My technical work covers **KNX, PLC programming, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems**, with a focus on commissioning, troubleshooting and intelligent control.
 
 Strong problem-solving skills, with a proactive mindset and leadership experience in coordinating technical teams and supporting technicians during commissioning and troubleshooting activities.
 ---
@@ -47,11 +47,11 @@ Strong problem-solving skills, with a proactive mindset and leadership experienc
 <td width="33%" valign="top">
 
 ### ⚙️ Control & Integration
-- PLC
+- PLC Programming
 - Modbus RTU / TCP
 - Ethernet
+- IoT Integration
 - System Integration
-
 </td>
 
 <td width="33%" valign="top">
@@ -148,3 +148,6 @@ Smart Building
     ├── Modbus
     ├── Ethernet
     └── CCTV
+## Current Focus
+
+`Smart Buildings` · `Building Automation` · `IoT` · `Smart Cities` · `Energy Efficiency` · `System Integration`
