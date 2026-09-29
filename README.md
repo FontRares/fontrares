@@ -2,15 +2,14 @@
 
 # Rareș-Alexandru Font
 
-### Automation Engineer · BMS · Building Automation
+### Automation Engineer | BMS & Building Automation
 
-**KNX · PLC · Modbus · HVAC · DALI · Electrical Systems · System Integration**
-
-<br>
-
-<img src="PASTE_YOUR_BMS_BANNER_HERE"
-     alt="Building Management System"
-     width="100%" />
+<img src="https://img.shields.io/badge/BMS-Building%20Automation-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/KNX-ETS-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/PLC-Control-4b5563?style=flat-square" />
+<img src="https://img.shields.io/badge/Modbus-RTU%20%2F%20TCP-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/HVAC-Control-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/DALI-Lighting-4b5563?style=flat-square" />
 
 <br><br>
 
@@ -19,41 +18,42 @@
 </a>
 
 <a href="mailto:fontrares44@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Automation Engineer specialized in **Building Management Systems and Building Automation**, with practical experience in system integration, commissioning, maintenance and troubleshooting.
+Automation Engineer specialized in **Building Management Systems (BMS)** and **Building Automation**, with hands-on experience in system integration, commissioning, maintenance and troubleshooting.
 
-My work involves the integration and control of building technologies such as **KNX, PLC systems, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems**.
+My technical focus includes **KNX, PLC, Modbus, HVAC automation, DALI lighting control, Ethernet communication, CCTV and electrical systems**.
 
-My academic background combines **Automation and Computer Science** with ongoing studies in **Building Services Engineering**, supporting a multidisciplinary approach to smart and efficient buildings.
+I combine a background in **Automation and Computer Science** with ongoing studies in **Building Services Engineering**, with a strong interest in smart buildings and integrated control systems.
 
 ---
 
-## Engineering Areas
+## Engineering Focus
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
-### Building Automation
+### 🏢 Building Automation
 
 BMS  
 KNX / ETS  
-DALI  
-Smart Buildings
+Smart Buildings  
+DALI
 
 </td>
 
 <td width="33%" align="center">
 
-### Control & Integration
+### ⚙️ Control & Integration
 
 PLC  
 Modbus RTU / TCP  
@@ -64,7 +64,7 @@ System Integration
 
 <td width="33%" align="center">
 
-### Building Systems
+### 🌡️ Building Systems
 
 HVAC  
 Electrical Systems  
@@ -72,129 +72,64 @@ CCTV
 Commissioning
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Technologies
+## Core Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BMS-Building%20Management-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KNX-ETS-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PLC-Control-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modbus-RTU%20%7C%20TCP-555555?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HVAC-Automation-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DALI-Lighting-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ethernet-Integration-555555?style=for-the-badge" />
-</p>
-
----
-
-## Professional Experience
-
-### BMS Engineer
-**2026 — Present**
-
-Working with Building Management Systems and integrated building automation solutions.
-
-- BMS configuration, integration and commissioning
-- KNX programming and commissioning using ETS
-- PLC-based control systems
-- Modbus RTU / TCP integration
-- HVAC automation and control
-- DALI lighting control
-- Ethernet-based system communication
-- Electrical troubleshooting and commissioning
-
-### BMS Maintenance Technician
-**2025 — 2026**
-
-Worked on maintenance, troubleshooting and technical support for BMS and building automation systems.
-
----
-
-## Selected Engineering Focus
-
-<img align="right"
-     width="380"
-     src="PASTE_KNX_ENGINEERING_IMAGE_HERE"
-     alt="KNX Building Automation">
-
-### KNX & Smart Buildings
-
-My Bachelor's thesis focused on:
-
-**Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility**
-
-The project combined building automation, KNX communication and integrated building control.
-
-<br clear="right"/>
+- **BMS & Building Automation**
+- **PLC & Control Systems**
+- **HVAC & Electrical Systems**
+- **Communication Protocols & Networks**
+- **System Integration**
+- **Commissioning & Troubleshooting**
 
 ---
 
 ## Education
 
-### Technical University of Cluj-Napoca
+### 🎓 Technical University of Cluj-Napoca
+**Bachelor’s Degree in Automation and Applied Informatics**
 
-**Automation and Applied Informatics**
-
-Bachelor's Degree
-
-**Bachelor's Thesis**  
+**Bachelor’s Thesis:**  
 *Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility*
 
----
+### 🏗️ Technical University of Cluj-Napoca
+**Master’s Degree in Building Services Engineering — Ongoing**
 
-### Building Services Engineering
-
-**Master's Degree — Ongoing**
-
-Focused on building installations, HVAC, electrical systems and intelligent building technologies.
-
----
-
-### Technical University of Moldova
+### 🚗 Technical University of Moldova
+**Bachelor’s Degree in Automotive Engineering — Ongoing**
 
 Faculty of Mechanical, Industrial and Transport Engineering
 
-**Automotive Engineering — Ongoing**
-
 ---
 
-## Engineering & Programming
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,git,github" />
 </p>
 
 <p align="center">
-AutoCAD · MATLAB · ETS · Electrical Schematics · System Commissioning
+  ETS · AutoCAD · MATLAB · Electrical Schematics
 </p>
 
 ---
 
 ## Certifications
 
-⚡ **ANRE 2A / 2B** — Currently preparing
-
-📊 **Oracle Academy — SQL**
+- ⚡ **ANRE 2A / 2B** — Currently preparing
+- 🗄️ **Oracle Academy — SQL**
 
 ---
 
-<details>
-<summary><b>Languages</b></summary>
+## Languages
 
-<br>
-
-**Romanian** — Native  
-**English** — Fluent  
-**French** — Basic
-
-</details>
+- 🇷🇴 Romanian — Native
+- 🇬🇧 English — Fluent
 
 ---
 
@@ -202,11 +137,11 @@ AutoCAD · MATLAB · ETS · Electrical Schematics · System Commissioning
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=FontRares&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=FontRares&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontRares&layout=compact&hide_border=true&theme=transparent" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontRares&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -214,7 +149,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontRares&la
 
 <div align="center">
 
-### Building Automation · Smart Buildings · Integration · Engineering
+**Smart Buildings · Building Automation · System Integration · Engineering**
 
 Cluj-Napoca, Romania
 
