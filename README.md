@@ -26,6 +26,7 @@ Automation Engineer focused on **Building Management Systems, Building Automatio
 
 My technical work covers **KNX, PLC-based control, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems**, with a strong focus on commissioning, troubleshooting and integrated building control.
 
+Strong problem-solving skills, with a proactive mindset and leadership experience in coordinating technical teams and supporting technicians during commissioning and troubleshooting activities.
 ---
 
 ## Technical Domains
