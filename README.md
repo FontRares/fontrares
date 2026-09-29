@@ -70,7 +70,9 @@ Strong problem-solving skills, with a proactive mindset and leadership experienc
 ---
 
 ## Selected Building Automation Projects
-
+ 
+The following projects were delivered as part of my role at SKYLINE-ENGINEERING, where I contributed to BMS integration, commissioning and control system implementation.
+  
 ### Creșa „Veronica” — Cluj-Napoca
 PNRR-funded energy efficiency and modernization project.
 
