@@ -69,6 +69,25 @@ Strong problem-solving skills, with a proactive mindset and leadership experienc
 
 ---
 
+## Selected Building Automation Projects
+
+### Creșa „Veronica” — Cluj-Napoca
+PNRR-funded energy efficiency and modernization project.
+
+### Biblioteca Centrală Universitară „Lucian Blaga” — Cluj-Napoca
+PNRR energy renovation project.
+
+### Cămin X — UMF „Iuliu Hațieganu”, Cluj-Napoca
+PNRR-funded rehabilitation and energy efficiency project.
+
+**Technical scope across selected projects:**
+
+`Lighting Control` · `Energy Metering` · `PLC / Logical Controllers` · `Pump Control`
+
+`FCU` · `VRF` · `Underfloor Heating` · `HVAC Control`
+
+`Heat Recovery Units` · `AHU` · `Web Supervision` · `BMS Integration`
+
 ## Academic Project
 
 ### KNX-Based Building Management System
