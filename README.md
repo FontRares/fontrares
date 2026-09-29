@@ -1,70 +1,131 @@
+<div align="center">
+
 # Rareș-Alexandru Font
 
-## Automation Engineer | BMS & Building Automation
+### Automation Engineer | BMS & Building Automation
 
-Automation Engineer focused on building management systems, smart buildings and integrated control systems.
+<p>
+  <img src="https://img.shields.io/badge/KNX-ETS-2F3B52?style=flat-square" />
+  <img src="https://img.shields.io/badge/PLC-Control-3E4A61?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modbus-RTU%20%2F%20TCP-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/HVAC-Automation-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/DALI-Lighting-4B5563?style=flat-square" />
+</p>
 
-My work involves building automation technologies including KNX, PLC-based control, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems.
+<a href="https://www.linkedin.com/in/font-rares-alexandru-b3a377301">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-I am particularly interested in system integration, commissioning, troubleshooting and intelligent control of building services.
-
----
-
-## Building Automation & Control
-
-### Protocols & Integration
-KNX · Modbus RTU/TCP · Ethernet · DALI
-
-### Control Systems
-PLC · BMS Controllers · Sensors · Actuators
-
-### Building Services
-HVAC · Lighting · Electrical Systems · CCTV
-
-### Engineering
-Commissioning · Troubleshooting · System Integration · Electrical Schematics
+</div>
 
 ---
 
-## Academic Focus
+## Engineering Profile
 
-**Bachelor’s Thesis**  
-*Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility*
+Automation Engineer focused on **Building Management Systems, Building Automation and System Integration**.
 
-Bachelor’s Degree in Automation and Applied Informatics
+My technical work covers **KNX, PLC-based control, Modbus communication, HVAC automation, DALI lighting, Ethernet networks, CCTV and electrical systems**, with a strong focus on commissioning, troubleshooting and integrated building control.
 
-Master’s Degree in Building Services Engineering — Ongoing
+---
 
-Automotive Engineering — Ongoing
+## Technical Domains
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🏢 Building Automation
+- BMS
+- KNX / ETS
+- Smart Building Systems
+- DALI
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Control & Integration
+- PLC
+- Modbus RTU / TCP
+- Ethernet
+- System Integration
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌡️ Building Systems
+- HVAC
+- Electrical Systems
+- CCTV
+- Commissioning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Academic Project
+
+### KNX-Based Building Management System
+
+**Bachelor’s Thesis**
+
+> Design and Implementation of a KNX-Based BMS for a Preschool Educational Facility
+
+The project focused on the design and implementation of an integrated building automation solution using KNX technology.
+
+---
+
+## Education
+
+### Technical University of Cluj-Napoca
+**Bachelor’s Degree in Automation and Applied Informatics**
+
+### Technical University of Cluj-Napoca
+**Master’s Degree in Building Services Engineering — Ongoing**
+
+### Technical University of Moldova
+**Bachelor’s Degree in Automotive Engineering — Ongoing**
+
+---
+
+## Engineering Tools
+
+`ETS` · `AutoCAD` · `MATLAB` · `Git`
+
+Programming background:
+
+`C` · `C++` · `C#` · `Java` · `SQL`
 
 ---
 
 ## Certifications
 
-ANRE 2A / 2B — In preparation
-
-Oracle Academy — SQL
-
----
-
-## Technical Background
-
-C · C++ · C# · Java · SQL · MATLAB · AutoCAD · Git
+- ⚡ ANRE 2A / 2B — Currently preparing
+- 🗄️ Oracle Academy — SQL
 
 ---
 
 ## Current Focus
 
-- Building Management Systems
-- KNX-based automation
-- PLC control
-- HVAC integration
-- Modbus communication
-- DALI lighting control
-- Smart building integration
-
----
-
-## Contact
-
-LinkedIn: [Rareș-Alexandru Font](https://www.linkedin.com/in/font-rares-alexandru-b3a377301)
+```text
+Smart Building
+│
+├── Building Management System
+│   ├── HVAC
+│   ├── Lighting
+│   └── Electrical Systems
+│
+├── Automation
+│   ├── KNX
+│   ├── PLC
+│   └── DALI
+│
+└── Integration
+    ├── Modbus
+    ├── Ethernet
+    └── CCTV
