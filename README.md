@@ -130,7 +130,7 @@ Programming background:
 ---
 
 ## Current Focus
-
+`Smart Buildings` · `Building Automation` · `IoT` · `Smart Cities` · `Energy Efficiency` · `System Integration`
 ```text
 Smart Building
 │
@@ -151,4 +151,3 @@ Smart Building
 ## Current Focus
 
 
-`Smart Buildings` · `Building Automation` · `IoT` · `Smart Cities` · `Energy Efficiency` · `System Integration`
